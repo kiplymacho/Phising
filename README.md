@@ -48,9 +48,6 @@ $ unzip T-Phish
 $ cd T-Phish
 ```
 ```
-$ unzip T-Phish.zip
-```
-```
 $ chmod 777 start.sh
 ```
 ```
