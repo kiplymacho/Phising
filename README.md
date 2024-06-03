@@ -19,43 +19,42 @@ Powered By kiplymacho
 T-Phish is agreat and very usfull phishing tool for Mobile User. This is a modifyed Tool
 
 ### Installation and usage guide
+
+```
+apt-get update -y
 ```
 ```
-$ apt-get update -y
+apt-get upgrade -y
 ```
 ```
-$ apt-get upgrade -y
+pkg install git -y
 ```
 ```
-$ pkg install git -y
+https://github.com/kiplymacho/Phising
 ```
 ```
-$ https://github.com/kiplymacho/Phising
+ls
 ```
 ```
-$ ls
+cd T-Phish
 ```
 ```
-$ cd T-Phish
+ls
 ```
 ```
-$ ls
+unzip T-Phish
 ```
 ```
-$ unzip T-Phish
+cd T-Phish
 ```
 ```
-$ cd T-Phish
+chmod 777 start.sh
 ```
 ```
-$ chmod 777 start.sh
+./start.sh
 ```
 ```
-$ ./start.sh
-```
-```
-$ ./phish.sh
-```
+./phish.sh
 ```
 
 ### Warning
@@ -76,17 +75,3 @@ $ ./phish.sh
 <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiplymacho&layout=compact&theme=dark">
 <img height=150 src="https://github-readme-stats.vercel.app/api?username=kiplymacho&count_private=true&show_icons=true&theme=dark">
 <h2 align="center">
-
-# Jangan Lupa Follow
-
-<p align="center">
-
-  &nbsp;</p><p align="center">Youtube</p><p align="center"><span style="text-align: left;">👇👇</span></p>
-
-  <p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.youtube.com/@km7ujuh">𝗞𝗟𝗜𝗞 𝗗𝗜𝗦𝗜𝗡𝗜 𝗦𝗘𝗞𝗔𝗥𝗔𝗡𝗚 </a></p><p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Instagram</p><p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 👇👇&nbsp;</p>
-
-   <p style="text-align: left;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.instagram.com/kiplymacho">𝗞𝗟𝗜𝗞 𝗗𝗜𝗦𝗜𝗡𝗜 𝗦𝗘𝗞𝗔𝗥𝗔𝗡𝗚 </a></p><p></p>
-
-
-
-
