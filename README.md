@@ -12,13 +12,9 @@ Powered By kiplymacho
 
 </p> 
 
-# T-Phish
+# phising 
 
-## About T-Phish :
-
-T-Phish is agreat and very usfull phishing tool for Mobile User. This is a modifyed Tool
-
-### Installation and usage guide
+### Installasi Ke Termux
 
 ```
 apt-get update -y
@@ -30,7 +26,7 @@ apt-get upgrade -y
 pkg install git -y
 ```
 ```
-https://github.com/kiplymacho/Phising
+https://github.com/kiplymacho/phising
 ```
 ```
 ls
